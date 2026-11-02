@@ -24,6 +24,7 @@ Monthly Revenue Trend (Line Chart): Identifies revenue velocity, demand fluctuat
 Top 10 Products by Revenue (Horizontal Bar Chart): Highlighting the highest sales drivers using Top-N filtering.
 Category Performance (Clustered Column Chart): Side-by-side comparison of total Sales versus net Profit across main product categories.
 Regional Profitability (Donut Chart): Visualizing proportional profit contributions by geographic zone.
+
 🔍 Key Findings & Business Insights
 Category Margin Disparity:
 Technology leads total sales and produces strong net profit margins, heavily driven by high-ticket items like commercial copiers and office technology.
@@ -34,6 +35,7 @@ Regional Performance Disparities:
 The West region leads in profitability, contributing over 37% of total business profits ($108.42K), while the Central region lags significantly behind despite solid sales volume, pointing to potential pricing or logistics inefficiencies in the midwest.
 Top Product Concentration:
 High-value commercial items (e.g., Canon imageCLASS 2200 Advanced Copier) represent a disproportionate share of top-line revenue, showing that B2B office equipment drives critical baseline profit.
+
 💡 Strategic Recommendations
 Protect Margins in High-Volume Categories:
 Audit discount policies on the Furniture category. Capping maximum allowed sales discounts will immediately reclaim lost net profit margins without killing order volume.
@@ -43,6 +45,7 @@ Turnaround Plan for Central Region:
 Investigate operational cost drivers in the Central region. Conduct a regional product-level audit to determine if low profitability is caused by regional freight overheads, local sales tax dynamics, or localized discounting.
 B2B Bundling Strategy:
 Create bundled promotional packages combining top-performing Technology items (like Copiers and Printers) with high-margin Office Supplies to increase average order values.
+
 📁 Repository Structure
 ├── Superstore Dashboard.pbix   # Primary Power BI Dashboard File
 ├── README.md                          # Project Documentation & Insights Report
